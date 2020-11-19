@@ -4,7 +4,7 @@
 /* Header/Blog Title */
 .header {
 	padding: 30px 0px 0px;
-	background-color: #850909;
+	background-color: #cb6464;
 	color:white;
 }
 
@@ -22,20 +22,20 @@
 
 .footer {
 	padding: 30px 40px;
-	background-color: #850909;
+	background-color: #cb6464;
 }
 .main-body {
-	background-color: #fce8e8;
+	background-color: #f0d8a3;
 	padding: 20px 0px;
 }
 
 .btn-primary.custom-btn {
-	background-color: #800000;
+	background-color: #62ab9d;
 	border-color: #000;
 }
 
 .btn-primary.custom-btn:hover, .btn-primary.custom-btn:focus{
-	background-color: #db0000;
+	background-color: #16806b;
 }
 
 .card {
@@ -69,16 +69,21 @@
 	src: url(Raleway-VariableFont_wght.ttf);
 }
 
+@font-face{
+	font-family: Quentin;
+	src: url(Quentin.otf);
+}
+
 p {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	font-family:Raleway;
 }
 h2, h3 {
-	font-family: StyleThief !important;
+	font-family: Quentin !important;
 	text-align: center;
 	font-size: 48pt !important;
-	color: #850909 !important;
+	color: #62ab9d !important;
 }
 
 /* h3 {
