@@ -76,8 +76,15 @@
 
 p {
 	padding-top: 10px;
-	padding-bottom: 10px;
 	font-family:Raleway;
+}
+
+ol, ul {
+	
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-family:Raleway;
+	
 }
 h2, h3 {
 	font-family: Quentin !important;
